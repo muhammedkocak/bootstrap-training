@@ -1,0 +1,27 @@
+
+
+
+.container {
+    margin-top: 100px;
+}
+
+
+.bgpink {
+   background-color:#CDA5F3;
+}
+
+.bradius {
+    border-radius: 3px
+}
+
+.bor {
+    border: 1px solid black;
+}
+
+.centext {
+    text-align: center;
+}
+
+/* .height {
+    height: 100%;
+} */
